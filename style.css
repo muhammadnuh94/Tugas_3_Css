@@ -1,0 +1,15 @@
+.p_pertama{
+    background-color: orange;
+}
+.p_dua{
+    background-color: blue;
+    color: white;
+}
+.p_tiga{
+    font-family: monospace;
+    font-size: 22px;
+}
+.p_empat{
+    background-color: grey;
+    font-weight: bold;
+}
